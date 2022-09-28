@@ -60,3 +60,5 @@ Using lists
 4. Shell Script
 
 - This is a bullet point
+	1. Indented List Item.
+	2. It's fun actually!
