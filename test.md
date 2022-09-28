@@ -66,6 +66,10 @@ This is a horizontal line(just use three hyphens)
 	1. Indented List Item.
 	2. It's fun actually!
 
-This is also a horizontal line(use three asterisks)
+_These are two images given by Hitesh Choudhary to all the coders to make their github more beautiful._
 
+[Image one](https://learncodeonline.in/gitone.png "A project by")
+[Image two](https://learncodeonline.in/gittwo.png "Coder")
+
+This is another horizontal line(just use three asterisks)
 ***
