@@ -66,6 +66,6 @@ This is a horizontal line(just use three hyphens)
 	1. Indented List Item.
 	2. It's fun actually!
 
-This is also a horizontal line but slightly light in color than the above horizontal line(use three asterisks)
+This is also a horizontal line(use three asterisks)
 
 ***
