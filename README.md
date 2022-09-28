@@ -13,6 +13,6 @@ I also love to do **Shell Scripting**
 ![C++](https://clipground.com/images/c-logo-1.png "C++") ![C](https://tse2.mm.bing.net/th?id=OIP.5fFJnc5j2RZTNAHekxL2rAHaHa&pid=Api&P=0 "C") ![Python](https://tse3.mm.bing.net/th?id=OIP.1aG3KSYLxhE4dZMD-RNxDgHaIW&pid=Api&P=0&w=300&h=300 "Python") ![ShellScript](https://tse4.mm.bing.net/th?id=OIP.xKR6gz5els6BInm8gs_WRQHaII&pid=Api&P=0&w=300&h=300 "Shell Script")
 
 
-_I feel like that I have talked too much_
+_I feel like I have talked too much_
 
 > Happy coding!!!
