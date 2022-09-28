@@ -68,8 +68,8 @@ This is a horizontal line(just use three hyphens)
 
 _These are two images given by Hitesh Choudhary to all the coders to make their github more beautiful._
 
-[Image one](https://learncodeonline.in/gitone.png "A project by")
-[Image two](https://learncodeonline.in/gittwo.png "Coder")
+![Image one](https://learncodeonline.in/gitone.png "A project by")
+![Image two](https://learncodeonline.in/gittwo.png "Coder")
 
 This is another horizontal line(just use three asterisks)
 ***
