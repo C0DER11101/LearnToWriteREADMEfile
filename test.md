@@ -59,6 +59,9 @@ Using lists
 3. Python
 4. Shell Script
 
+This is a horizontal line(just use three hyphens)
+
+---
 - This is a bullet point
 	1. Indented List Item.
 	2. It's fun actually!
