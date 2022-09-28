@@ -42,3 +42,9 @@ int main(void)
 }
 
 ```
+
+Using Tables
+
+| Table | Goes | Here  |
+| ----- | ---- | ----- |
+| One   | Two  | Three |
