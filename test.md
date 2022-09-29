@@ -5,7 +5,7 @@ NORMAL TEXT
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-##### Heading 6
+###### Heading 6
 
 6 headings supported(like HTML).
 
