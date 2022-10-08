@@ -5,4 +5,4 @@
 
 &theta;
 
-&omega;
+&Omega;
