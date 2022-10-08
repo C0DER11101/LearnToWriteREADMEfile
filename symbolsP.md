@@ -4,3 +4,5 @@
 &gamma;
 
 &theta;
+
+&omega;
