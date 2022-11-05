@@ -25,4 +25,4 @@ Example:
 | Example | Output |
 |:-------:|:------:|
 |"$$\frac{a}{3}$$"|$$\frac{a}{3}$$|
-|"$$\frac{y}{\frac{3}{x}+b}$$"|$$\frac{y}{\frac{3}{x}+b}|
+|"$$\frac{y}{\frac{3}{x}+b}$$"|$$\frac{y}{\frac{3}{x}+b}$$|
