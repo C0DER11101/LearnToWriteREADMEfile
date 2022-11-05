@@ -1,3 +1,3 @@
 # Mathematical symbols in Markdown
 
-$\sum_{i-1}^{10} t_i$
+$\sum_{i=1}^{10} t_i$
