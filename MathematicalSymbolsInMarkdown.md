@@ -56,4 +56,4 @@ Example:
 | Example | Output |
 |:-------:|:------:|
 |"$$\int_a^b f(x)$$"|$$\int_a^b f(x)$$|
-|"$$\int_a^10 f(x)$$"|$$\int_a^10 f(x)$$|
+|"$$\int_a^{10} f(x)$$"|$$\int_a^{10} f(x)$$|
