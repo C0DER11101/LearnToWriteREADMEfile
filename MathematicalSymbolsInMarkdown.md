@@ -79,6 +79,8 @@ Example:
 |`$\omega$`|$\omega$|
 |`$\Omega$`|$\Omega$|
 
-\right\rvert
+$$\right\rvert$$
+
+$$\abs$$
 
 ---
