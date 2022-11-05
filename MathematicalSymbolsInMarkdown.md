@@ -26,3 +26,14 @@ Example:
 |:-------:|:------:|
 |"$$\frac{a}{3}$$"|$$\frac{a}{3}$$|
 |"$$\frac{y}{\frac{3}{x}+b}$$"|$$\frac{y}{\frac{3}{x}+b}$$|
+
+## Roots
+
+Square root symbols are inserted using `$$\sqrt{...}$$` where `...` is replaced by the square root content. If a magnitude is required it can be added using optional square brackets `[...]`.
+
+Example:
+
+| Example | Output |
+|:-------:|:------:|
+|"$$\sqrt{y^2}$$"|$$\sqrt{y^2}$$|
+|"$$\sqrt[x]{y^2}$$"|$$\sqrt[x]{y^2}$$|
