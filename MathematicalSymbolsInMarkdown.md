@@ -24,8 +24,8 @@ Example:
 
 | Example | Output |
 |:-------:|:------:|
-|"$$\frac{a}{3}$$"|$$\frac{a}{3}$$|
-|"$$\frac{y}{\frac{3}{x}+b}$$"|$$\frac{y}{\frac{3}{x}+b}$$|
+|`$$\frac{a}{3}$$`|$$\frac{a}{3}$$|
+|`$$\frac{y}{\frac{3}{x}+b}$$`|$$\frac{y}{\frac{3}{x}+b}$$|
 
 ## Roots
 
@@ -35,8 +35,8 @@ Example:
 
 | Example | Output |
 |:-------:|:------:|
-|"$$\sqrt{y^2}$$"|$$\sqrt{y^2}$$|
-|"$$\sqrt[x]{y^2}$$"|$$\sqrt[x]{y^2}$$|
+|`$$\sqrt{y^2}$$`|$$\sqrt{y^2}$$|
+|`$$\sqrt[x]{y^2}$$`|$$\sqrt[x]{y^2}$$|
 
 ## Sums and integrals
 
@@ -46,8 +46,8 @@ Example:
 
 | Example | Output |
 |:-------:|:------:|
-|"$$\sum_{x=1}^3 y^z$$"|$$\sum_{x=1}^3 y^z$$|
-|"$$\sum_{x=1}^{10} y^z$$"|$$\sum_{x=1}^{10} y^z$$|
+|`$$\sum_{x=1}^3 y^z$$`|$$\sum_{x=1}^3 y^z$$|
+|`$$\sum_{x=1}^{10} y^z$$`|$$\sum_{x=1}^{10} y^z$$|
 
 To show the integral we use `$$\int_lowerBound^upperBound f(variable)$$`
 
@@ -55,8 +55,8 @@ Example:
 
 | Example | Output |
 |:-------:|:------:|
-|"$$\int_a^b f(x)$$"|$$\int_a^b f(x)$$|
-|"$$\int_a^{10} f(x)$$"|$$\int_a^{10} f(x)$$|
+|`$$\int_a^b f(x)$$`|$$\int_a^b f(x)$$|
+|`$$\int_a^{10} f(x)$$`|$$\int_a^{10} f(x)$$|
 
 ## Greek letters
 
