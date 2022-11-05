@@ -37,3 +37,14 @@ Example:
 |:-------:|:------:|
 |"$$\sqrt{y^2}$$"|$$\sqrt{y^2}$$|
 |"$$\sqrt[x]{y^2}$$"|$$\sqrt[x]{y^2}$$|
+
+## Sums and integrals
+
+To show the summation we use `$$\sum_{lowerLimit}^upperLimit expression$$`
+
+Example:
+
+| Example | Output |
+|:-------:|:------:|
+|"$$\sum_{x=1}^3 y^z$$"|$$\sum_{x=1}^3 y^z$$|
+|"$$\frac{y}{\frac{3}{x}+b}$$"|$$\frac{y}{\frac{3}{x}+b}$$|
