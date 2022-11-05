@@ -57,3 +57,12 @@ Example:
 |:-------:|:------:|
 |"$$\int_a^b f(x)$$"|$$\int_a^b f(x)$$|
 |"$$\int_a^{10} f(x)$$"|$$\int_a^{10} f(x)$$|
+
+## Greek letters
+
+| Code | Symbol |
+|:----:|:------:|
+|"$\alpha$"|$\alpha$|
+|"$\beta$"|$\beta$|
+|"$\delta$"|$\delta$|
+|"$\Delta$"|$\Delta$|
