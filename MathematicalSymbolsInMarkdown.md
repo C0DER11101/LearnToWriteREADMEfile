@@ -83,5 +83,6 @@ Modulus in Markdown using LaTeX:
 
 $$\left\lvert4\right\rvert$$
 
+$$(sum_{i=1}^N {\left\lvert p_i - q_i \right\rvert}^P)^\frac{1}{P}$$
 
 ---
