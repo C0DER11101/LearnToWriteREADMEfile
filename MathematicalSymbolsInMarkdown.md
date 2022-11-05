@@ -79,8 +79,9 @@ Example:
 |`$\omega$`|$\omega$|
 |`$\Omega$`|$\Omega$|
 
-$$\left\lvert \right\rvert$$
+Modulus in Markdown using LaTeX:
 
-$$\abs$$
+$$\left\lvert4\right\rvert$$
+
 
 ---
