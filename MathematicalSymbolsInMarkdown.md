@@ -85,4 +85,6 @@ $$\left\lvert4\right\rvert$$
 
 $$(\sum_{i=1}^N {\left\lvert p_i - q_i \right\rvert}^P)^\frac{1}{P}$$
 
+[Click here](https://stackoverflow.com/questions/37411920/how-to-write-equation-including-abs-inside-using-rmarkdown) if you want to learn how to write something within absolute symbol(| |).
+
 ---
