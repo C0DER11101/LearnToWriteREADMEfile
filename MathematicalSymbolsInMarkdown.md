@@ -47,5 +47,5 @@ Example:
 | Example | Output |
 |:-------:|:------:|
 |"$$\sum_{x=1}^3 y^z$$"|$$\sum_{x=1}^3 y^z$$|
-|"$$\sum_{x=1}^10 y^z$$"|$$\sum_{x=1}^10 y^z$$|
+|"$$\sum_{x=1}^{10} y^z$$"|$$\sum_{x=1}^{10} y^z$$|
 |"$$\frac{y}{\frac{3}{x}+b}$$"|$$\frac{y}{\frac{3}{x}+b}$$|
