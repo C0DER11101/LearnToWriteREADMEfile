@@ -79,7 +79,7 @@ Example:
 |`$\omega$`|$\omega$|
 |`$\Omega$`|$\Omega$|
 
-$$\right\rvert$$
+$$\left\lvert \right\rvert$$
 
 $$\abs$$
 
