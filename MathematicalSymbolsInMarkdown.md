@@ -62,7 +62,7 @@ Example:
 
 | Code | Symbol |
 |:----:|:------:|
-|"$\alpha$"|$\alpha$|
-|"$\beta$"|$\beta$|
-|"$\delta$"|$\delta$|
-|"$\Delta$"|$\Delta$|
+|`$\alpha$`|$\alpha$|
+|`$\beta$`|$\beta$|
+|`$\delta$`|$\delta$|
+|`$\Delta$`|$\Delta$|
