@@ -66,3 +66,15 @@ Example:
 |`$\beta$`|$\beta$|
 |`$\delta$`|$\delta$|
 |`$\Delta$`|$\Delta$|
+|`$\theta$`|$\theta$|
+|`$\Theta$`|$\Theta$|
+|`$\mu$`|$\mu$|
+|`$\pi$`|$\pi$|
+|`$\Pi$`|$\Pi$|
+|`$\sigma$`|$\sigma$|
+|`$\Sigma$`|$\Sigma$|
+|`$\phi$`|$\phi$|
+|`$\psi$`|$\psi$|
+|`$\Psi$`|$\Psi$|
+|`$\omega$`|$\omega$|
+|`$\Omega$`|$\Omega$|
