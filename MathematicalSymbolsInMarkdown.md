@@ -4,7 +4,7 @@
 
 Powers are inserted using the `^` symbol(similar to LaTeX).
 
-"$n^2"  gives   $n^2$
+"$n^2$"  gives   $n^2$
 
 
 Indices are inserted using `_`.
