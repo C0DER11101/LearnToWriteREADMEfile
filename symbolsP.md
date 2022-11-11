@@ -28,10 +28,11 @@ Click [here](https://www.w3schools.com/html/html_symbols.asp "Symbols for mardow
 
 # LaTeX symbols
 
-$\leftarrow$
-$\uparrow$
-$\downarrow$
-$\rightarrow$
-
+|Symbol name|Symbol|LaTeX command|
+|:----------|:----:|------------:|
+|Left arrow|$\leftarrow$|`$\leftarrow$`|
+|Up arrow|$\uparrow$|`$\uparrow$`|
+|Down arrow|$\downarrow$|`$\downarrow$`|
+|Right arrow|$\rightarrow$|`$rightarrow$`|
 
 ---
