@@ -20,10 +20,10 @@ Click [here](https://www.w3schools.com/html/html_symbols.asp "Symbols for mardow
 
 |Symbol name|The actual symbol|Decimal value|
 |:----------|:---------------:|------------:|
-|Left arrow|&8592;| `&8592;`|
-|Upward arrow|&8593;|`&8593;`|
-|Right arrow|&8594;|`&8594;`|
-|Down arrow|&8595;|`&8595;`|
+|Left arrow|&#8592;| `&#8592;`|
+|Upward arrow|&#8593;|`&#8593;`|
+|Right arrow|&#8594;|`&#8594;`|
+|Down arrow|&#8595;|`&#8595;`|
 
 
 ---
