@@ -13,3 +13,17 @@ Click [here](https://www.w3schools.com/html/html_symbols.asp "Symbols for mardow
 &theta;
 
 &Omega;
+
+# More symbols
+
+[Here](https://stackoverflow.com/questions/54954544/how-do-i-show-the-up-and-down-arrow-keyboard-key-in-github-markdown) is the link.
+
+|Symbol name|The actual symbol|Decimal value|
+|:----------|:---------------:|------------:|
+|Left arrow|&8592;| `&8592;`|
+|Upward arrow|&8593;|`&8593;`|
+|Right arrow|&8594;|`&8594;`|
+|Down arrow|&8595;|`&8595;`|
+
+
+---
