@@ -91,6 +91,7 @@ $$(\sum_{i=1}^N {\left\lvert p_i - q_i \right\rvert}^P)^\frac{1}{P}$$
 **Also, an important point to remember:**
 
 You insert the simple \| symbol using `\|`
+
 **If you didn't understand this :point_up:, just go [here](https://stackoverflow.com/questions/23723396/how-to-show-the-pipe-symbol-in-markdown-table)**.
 
 ---
