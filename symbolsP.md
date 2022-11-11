@@ -26,4 +26,12 @@ Click [here](https://www.w3schools.com/html/html_symbols.asp "Symbols for mardow
 |Down arrow|&#8595;|`&#8595;`|
 
 
+# LaTeX symbols
+
+\leftarrow
+\uparrow
+\downarrow
+\rightarrow
+
+
 ---
