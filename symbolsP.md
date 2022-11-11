@@ -33,6 +33,6 @@ Click [here](https://www.w3schools.com/html/html_symbols.asp "Symbols for mardow
 |Left arrow|$\leftarrow$|`$\leftarrow$`|
 |Up arrow|$\uparrow$|`$\uparrow$`|
 |Down arrow|$\downarrow$|`$\downarrow$`|
-|Right arrow|$\rightarrow$|`$rightarrow$`|
+|Right arrow|$\rightarrow$|`$\rightarrow$`|
 
 ---
