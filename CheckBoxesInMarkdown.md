@@ -9,6 +9,6 @@ _add a hyphen first then start the line with [] or [x], space should be added be
 Example:
 
 - [x] Intro
-- [] Structure
-- [] Chapters
-- [] Conclusion
+- [ ] Structure
+- [ ] Chapters
+- [ ] Conclusion
