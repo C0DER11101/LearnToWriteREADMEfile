@@ -78,6 +78,8 @@ Example:
 |`$\Psi$`|$\Psi$|
 |`$\omega$`|$\omega$|
 |`$\Omega$`|$\Omega$|
+|`$\lambda$`|$\lambda$|
+|`$\Lambda$`|$\Lambda$|
 
 Modulus in Markdown using LaTeX:
 
