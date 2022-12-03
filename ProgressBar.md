@@ -5,8 +5,8 @@
 
 <html>
 
-<body>
-<progress value="57" max="100">
-</progress>
-</body>
+	<body>
+		<progress value="57" max="100">
+		</progress>
+	</body>
 </html>
