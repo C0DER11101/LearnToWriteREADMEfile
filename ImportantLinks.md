@@ -4,6 +4,8 @@
 
 [Change the Theme](https://www.youtube.com/watch?v=RbRiZ9ALtn0 "Click")
 
+[Devicons](https://devicon.dev/)
+
 :sparkling_heart:Have fun!!
 
 ---
