@@ -1,4 +1,4 @@
-# \LaTeX{} Mathematical symbols in Markdown file
+# $\LaTeX{}$ Mathematical symbols in Markdown file
 
 ## Power and indices
 
