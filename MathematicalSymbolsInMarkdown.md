@@ -15,6 +15,9 @@ If power or indices include more than one character, group them using curly brac
 
 `$b_{a-2}$` produces $b_{a-2}$
 
+## Greater than equal to
+`$\geq$` $\geq$
+
 ## Fractions
 
 Fractions are inserted using `$$\frac{numerator}{denominator}$$`
