@@ -84,7 +84,7 @@ Example:
 |`$\lambda$`|$\lambda$|
 |`$\Lambda$`|$\Lambda$|
 
-Modulus in Markdown using LaTeX:
+Modulus in Markdown using $\LaTeX{}$:
 
 $$\left\lvert4\right\rvert$$
 
