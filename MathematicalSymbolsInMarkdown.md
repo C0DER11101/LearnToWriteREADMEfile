@@ -101,4 +101,6 @@ You insert the simple \| symbol using `\|`
 
 $Hello\ this\ is\ some\ text\ written\ in\ maths\ mode\ in\ \LaTeX{}$
 
+$hello this is some more text$
+
 ---
