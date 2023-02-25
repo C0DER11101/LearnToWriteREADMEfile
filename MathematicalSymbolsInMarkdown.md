@@ -99,4 +99,6 @@ You insert the simple \| symbol using `\|`
 
 **If you didn't understand this :point_up:, just go [here](https://stackoverflow.com/questions/23723396/how-to-show-the-pipe-symbol-in-markdown-table)**.
 
+$Hello\ this\ is\ some\ text\ written\ in\ maths\ mode\ in\ \LaTeX{}$
+
 ---
