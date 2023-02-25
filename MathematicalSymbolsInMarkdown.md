@@ -2,7 +2,7 @@
 
 ## Power and indices
 
-Powers are inserted using the `^` symbol(similar to LaTeX).
+Powers are inserted using the `^` symbol(similar to $\LaTeX{}$).
 
 `$n^2$`  gives   $n^2$
 
