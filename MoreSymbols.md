@@ -1,2 +1,3 @@
 # More symbols
 $\%$
+$\bmod$
