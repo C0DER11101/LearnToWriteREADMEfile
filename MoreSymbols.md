@@ -1,3 +1,5 @@
 # More symbols
 $\%$
 $\bmod$
+
+$\mathbin{\%}$
