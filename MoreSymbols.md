@@ -1,3 +1,3 @@
 # More symbols
 
-$\%$
+$%$
