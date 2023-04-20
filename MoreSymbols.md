@@ -1,5 +1,2 @@
 # More symbols
-
-$%$
-
 $\%$
